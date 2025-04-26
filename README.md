@@ -109,7 +109,6 @@ Onde `0` indica email legítimo e `1` phishing.
 ML_API/
 ├── main.py            # Código principal da API
 ├── requirements.txt   # Dependências do projeto
-└── email_phishing_data.csv  # Dataset (baixado automaticamente)
 ```
 ## Licença
 
